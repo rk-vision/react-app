@@ -13,7 +13,7 @@ function App() {
     <div className="App">
     <div>
                 <Link to="/">home</Link>
-                <Link to="/cal">Calculater</Link>
+                <Link to="/cal">Calculaterwaa</Link>
                </div>
 
     <Switch>

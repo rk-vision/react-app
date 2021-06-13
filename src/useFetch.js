@@ -22,7 +22,7 @@ function useFetch(url){
         )
         .catch(err=>{
           if(err.message==="AbortError"){
-            console.log("aborted");
+            console.log("aborted by chance!!");
           }
           else{
             setErr(err.message)
