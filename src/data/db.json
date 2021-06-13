@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "my blog 1",
+      "body": " keep the body",
+      "author": "rahulwaaa",
+      "id": 1
+    },
+    {
+      "title": "my blog 2",
+      "body": " keep the body down",
+      "author": "sohanwaaa",
+      "id": 2
+    },
+    {
+      "title": "my blog 3",
+      "body": " keep the body straight",
+      "author": "mohanwaa",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ]
+}
